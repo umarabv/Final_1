@@ -293,7 +293,6 @@
         android:layout_marginTop="592dp"
         android:backgroundTint="@color/Lll"
         android:text="@string/selected_user_user_1_1"
-        android:textColor="@color/fmj"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
