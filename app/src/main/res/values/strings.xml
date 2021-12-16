@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Abdullaev-Umar-Final</string>
+    <string name="shp">4.5</string>
+    <string name="Jollof_Rice">Jollof Rice</string>
+    <string name="Suhai">Suhani’s Stop, Kukatpally</string>
+    <string name="Description">Description</string>
+    <string name="ST">ST</string>
+    <string name="star">srar</string>
+    <string name="Home">Home</string>
+    <string name="Buttom_5">Bu</string>
+
+
+
+
+    <string name="long_text">Our fried rice is made from the finest ingredients and veggies. single dish is made with fresh vegetables, rescued.</string>
+    <string name="rescueddd">rescued</string>
+    <string name="vegannn">Vegan</string>
+    <string name="minnn">min</string>
+    <string name="nutritional_values_a">Nutritional Values</string>
+    <string name="protein_p">Protein</string>
+    <string name="carbonidrates_r">carbonidrates</string>
+    <string name="sodium_m">Sodium</string>
+    <string name="pattasium_m">Pattasium</string>
+    <string name="rich_in_vitamin_a_c_and_b3_m1">Rich in Vitamin A, C and B3</string>
+    <string name="ingredients_s">Ingredients</string>
+    <string name="selected_user_user_1_1">Selected User User 1</string>
+    <string name="edditions_2">Edditions</string>
+    <string name="jalapeno_1">Jalapeno</string>
+
+
+</resources>
