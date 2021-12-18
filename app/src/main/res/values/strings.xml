@@ -8,7 +8,10 @@
     <string name="star">srar</string>
     <string name="Home">Home</string>
     <string name="Buttom_5">Bu</string>
-
+    <string name="NML">NML</string>
+    <string name="spr">21-42-34, Banjara Hills, Hyder....</string>
+    <string name="mnl">Search food nearby</string>
+    <string name="ref">Your reference</string>
 
 
 
@@ -26,6 +29,13 @@
     <string name="selected_user_user_1_1">Selected User User 1</string>
     <string name="edditions_2">Edditions</string>
     <string name="jalapeno_1">Jalapeno</string>
+    <string name="edit_1">Edit</string>
+    <string name="user_4_1">User 4</string>
+    <string name="name_1">Name:</string>
+    <string name="user1_1">User1</string>
+    <string name="favorite_curations_1">favorite curations:</string>
+    <string name="favorite_dishes_1">Favorite Dishes</string>
+    <string name="recent_order_2">Recent Order</string>
 
 
 </resources>

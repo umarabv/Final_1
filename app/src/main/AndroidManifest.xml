@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AbdullaevUmarFinal">
         <activity
+            android:name=".food_order_1"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
             android:name=".Food_order2"
             android:exported="false" />
         <activity

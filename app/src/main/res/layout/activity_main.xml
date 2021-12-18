@@ -287,26 +287,16 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonReal"
         android:layout_width="293dp"
         android:layout_height="51dp"
         android:layout_marginTop="592dp"
-        android:backgroundTint="@color/Lll"
+        android:backgroundTint="@color/LL"
         android:text="@string/selected_user_user_1_1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/edditions_2"
-        android:layout_marginStart="30dp"
-        android:textColor="@color/fmj"
-        android:layout_marginTop="15sp"
-        android:textSize="30sp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button" />
 
 
     <ImageView
@@ -342,13 +332,15 @@
         android:contentDescription="@string/rich_in_vitamin_a_c_and_b3_m1" />
 
 
-
     <ImageView
+        android:id="@+id/imageView9"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:contentDescription="@string/NML"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:srcCompat="@drawable/component_97"
-        android:contentDescription="TODO" />
+        app:srcCompat="@drawable/component_97" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
